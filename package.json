@@ -1,0 +1,22 @@
+{
+  "name": "testimonials_grid_section",
+  "version": "1.0.0",
+  "description": "![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass main.scss style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mavreon/Testimonials_Grid_Section.git"
+  },
+  "author": "Chisom Ogbonna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mavreon/Testimonials_Grid_Section/issues"
+  },
+  "homepage": "https://github.com/Mavreon/Testimonials_Grid_Section#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
