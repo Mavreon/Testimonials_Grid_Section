@@ -1,4 +1,4 @@
-# Frontend Mentor - Testimonials grid section
+# Testimonials grid section
 
 Live Link(Netlify): https://joyful-khapse-628a39.netlify.app
 
